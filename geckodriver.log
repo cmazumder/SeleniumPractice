@@ -1,0 +1,33 @@
+1602789912782	geckodriver	INFO	Listening on 127.0.0.1:62312
+1602789913294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MAZUMD~1\\AppData\\Local\\Temp\\rust_mozprofile14PD7W"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602789915864	Marionette	INFO	Listening on port 62317
+1602789915971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602789918511	Marionette	INFO	Stopped listening on port 62317
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+,EPszLb,IkchZc,MkHyGd,NBZ7u,NZI0Db,NpD4ec,OG6ZHd,PekE8b,RqxLvf,T6sTsf,T7XTS,TxZWcc,URQPYc,ZDfS0b,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,foot,gol,iD8Yk,khSAxb,kyn,lli,lu,m,mUpTid,mu,o02Jie,pB6Zqd,qik19b,qjr3nc,rHjpXd,sb_wiz,sf,tl,uiNkee,vs,wQpTuc,wft,xz7cCd,zbML3c?xjs=s1&cb=4453893, line 1339: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ait] Error: Channel error: cannot send/recv
+
+o send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
